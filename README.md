@@ -1,5 +1,4 @@
 # Investment-trend-and-Preferences-dashboard
-# Investment Preference Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
 This project analyzes investment behavior and preferences using survey data.
@@ -8,8 +7,9 @@ investment reasons, and investment duration.
 
 ## 🛠 Tools & Technologies
 - Power BI
+- Power Query (Data Cleaning & Transformation)
 - DAX
-- Excel (data preparation)
+  
 
 ## 📊 Key Insights
 - Stock Market is the most preferred investment type.
@@ -24,7 +24,7 @@ investment reasons, and investment duration.
 - Clean, single-page executive dashboard
 
 ## 📷 Dashboard Preview
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview]()
 
 ## 📁 Files in this Repository
 - `Investment_Preference_Dashboard.pbix` – Power BI dashboard file
