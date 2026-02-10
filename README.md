@@ -24,7 +24,7 @@ investment reasons, and investment duration.
 - Clean, single-page executive dashboard
 
 ## 📷 Dashboard Preview
-![Dashboard Overview]()
+![Dashboard Overview](Screenshots/Dashboard_overview.png)
 
 ## 📁 Files in this Repository
 - `Investment_Preference_Dashboard.pbix` – Power BI dashboard file
